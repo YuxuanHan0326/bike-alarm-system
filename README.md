@@ -1,4 +1,4 @@
-# bike-alarm-system
+# Bike-Alarm-System
 
 A bike alarm system using Arduino Nano 33 BLE that includes the following function:
 
