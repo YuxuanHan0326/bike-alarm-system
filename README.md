@@ -14,4 +14,5 @@ The bike alarm system has the following design requirements:
 - Having a solar panel that can charge the battery when there is light.
 - Having a USB type-C port that can be used to charge the battery in emergency.
 - The system should be built on a PCB board, inside a 3D-printed casing, and should be as small as possible or intergrated with other devices (e.g. bike turn signal lights) to avoid being noticed and removed easily by the thief.
-  
+- The system should be at least IP65 rated.
+- User should be able to access the "Reset" button of the board from the casing, for example, through a small hole.
